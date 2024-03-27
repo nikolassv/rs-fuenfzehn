@@ -2,6 +2,18 @@
 
 The [Game of Fifteen](https://en.wikipedia.org/wiki/15_Puzzle) for the terminal.
 
+```
+╭────┬────┬────┬────╮
+│  3 │  5 │ 11 │ 10 │
+├────┼────┼────┼────┤
+│ 14 │  9 │ 12 │  1 │
+├────┼────┼────┼────┤
+│  6 │ 13 │    │  8 │
+├────┼────┼────┼────┤
+│  2 │  7 │  4 │ 15 │
+╰────┴────┴────┴────╯
+```
+
 ## Installation
 
 Please se the release pages for prebuild binaries for various platforms.
