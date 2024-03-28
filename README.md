@@ -16,7 +16,7 @@ The [Game of Fifteen](https://en.wikipedia.org/wiki/15_Puzzle) for the terminal.
 
 ## Installation
 
-Please se the release pages for prebuild binaries for various platforms.
+Please see the release pages for prebuild binaries for various platforms.
 
 ## How to use it
 
